@@ -1,14 +1,18 @@
----
 # ml4hep-light-hf-diphoton-jets
 
 This would include details on the machine learning techniques applied in the study, including algorithms, model architecture, training process, and how to reproduce the results using the provided code.
 Instructions on setting up the environment, installing necessary libraries, and running the code to replicate the study's findings.
 Description of the dataset used in this study and instructions on how to access or generate it.
 
----
-# Probing Light Fermiophobic Higgs Boson via Diphoton Jets at the HL-LHC
+# References
+
+## Probing Light Fermiophobic Higgs Boson via Diphoton Jets at the HL-LHC
 
 For more detailed information, please refer to the full paper: [Probing Light Fermiophobic Higgs Boson via Diphoton Jets at the HL-LHC](https://arxiv.org/pdf/2310.17741.pdf)
+
+## chofchof's repository
+
+For more detailed code and data, please refer to the other Github repository: https://github.com/chofchof/light-hf-ml.git
 
 ## Authors
 Daohan Wang, Jin-Hwan Cho, Jinheung Kim, Soojin Lee, Prasenjit Sanyal, Jeonghyeon Song. 
